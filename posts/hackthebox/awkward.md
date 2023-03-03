@@ -5,7 +5,8 @@ title : Sayonara - Awkward Writeup
 
 ## Intro
 In this article I’m going to be tackling Awkward machine, a medium difficulty Linux machine on hackthebox.com.
-in this machine we will be preseneted with vue js files loaded with the page where we will search for routes and exploit a jwt malformed token to get access to the hr dashboard, exploit ssrf to leak internal server resources where we will find an api documentation on port 3002, using this api we will exploit awk to get a command injection and extract a user's ssh credentials to gain initial foothold and from there exploit a sed command to get command injection and pivot to the www-data user which have access to a file that we will abuse through the mail command to get root privileges
+in this machine we will be preseneted with `vue js files` loaded with the page where we will search for routes and exploit a `jwt malformed token` to bypass authentication and get access to the hr dashboard, exploit `ssrf` to leak internal server resources where we will find an `api documentation` on port 3002, using this api we will exploit `awk` to get a `command injection` and extract a user's `ssh credentials` to gain initial foothold and from there exploit a `sed` command to get `command injection` and pivot to the www-data user which have access to a file that we will abuse through the `mail command` to get root privileges
+
 
 ![image](https://www.linkpicture.com/q/pasted_image000.png)
 
