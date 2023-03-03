@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Main</a>&#xA0;&#xA0;&#xA0;<a href="/posts/articles/index.html">Articles</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/vulnhub/index.html">VulnHub</a>&#xA0;&#xA0;&#xA0;<a href="/posts/pwntilldawn/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/hackmyvm/index.html">HackMyVm</a>&#xA0;&#xA0;&#xA0;<a href="/posts/echoctf/index.html">echoCTF</a></h2>
+<h2 class="mume-header" id="mainindexhtml-nbspnbsp-contactcontacthtml"><a href="./index.html">Main</a>&#xA0;&#xA0;&#xA0;<a href="/posts/articles/index.html">Articles</a>&#xA0;&#xA0;&#xA0;<a href="/posts/tryhackme/index.html">TryHackMe</a>&#xA0;&#xA0;&#xA0;<a href="/posts/vulnhub/index.html">VulnHub</a>&#xA0;&#xA0;&#xA0;<a href="/posts/pwntilldawn/index.html">PwnTillDawn</a>&#xA0;&#xA0;&#xA0;<a href="/posts/hackmyvm/index.html">HackMyVm</a>&#xA0;&#xA0;&#xA0;<a href="/posts/echoctf/index.html">CTF</a></h2>
 
 
 * * *
@@ -21,7 +21,7 @@ Hey You, Yes You, Welcome To My Cyber Security Blog My Name is Sayonara I Post D
 <p><strong>Name :</strong> <a href="#">Ismail Arame</a></p>
 <p><strong>Known as :</strong> <a href="#">Sayonara</a></p>
 <p><strong>What Do I Do :</strong> <a href="#">CTF / Red Teaming / Penetration tester</a></p>
-<p><strong>GitHub :</strong> <a href="https://github.com/Muzec0318">github.com/ismail-arame</a></p>
+<p><strong>GitHub :</strong> <a href="https://github.com/ismail-arame">github.com/ismail-arame</a></p>
 <br clear="left">
 <br clear="left">
 
@@ -48,10 +48,7 @@ _Practice your pentesting skills in a standalone, private lab environment with t
 <hr>
 
 
-- [[NOV 28, 2021]] [Kevin](https://muzec0318.github.io/posts/PG/kevin.html)
-- [[NOV 28, 2021]] [Peppo](https://muzec0318.github.io/posts/PG/peppo.html) `Ident,` `Docker images`
-- [[Jul 23, 2021]] [Shakabrah](https://muzec0318.github.io/posts/PG/shakabrah.html)
-- [[Mar 30, 2022]] [Potato](https://muzec0318.github.io/posts/PG/potato.html) `PHP strcmp`
+
 - [[Mar 31, 2021]] [Assertion101](https://muzec0318.github.io/posts/PG/assertion101.html) `Assert LFI`
 
 
@@ -64,12 +61,6 @@ _Capture the Flag (CTF) in computer security is an exercise in which "flags" are
 
 
 - [[Jun 15, 2022]] [Ilyasehacker](https://muzec0318.github.io/posts/CTF/ilyasehacker.html)
-- [[May 14, 2022]] [CysecNG CTF 2022](https://muzec0318.github.io/posts/CTF/cysecctf.html)
-- [[Apr 17, 2022]] [Th3 Hacker News B'darija CTF 2022](https://muzec0318.github.io/posts/CTF/thnbdarij.html)
-- [[Aug 29, 2021]] [abcccyberhackathon CTF 2021](https://muzec0318.github.io/posts/CTF/abcctf.html)
-- [[May 16, 2021]] [dCTF 2021 CTF](https://muzec0318.github.io/posts/CTF/dctf21.html)
-- [[Mar 12, 2021]] [zSecurity Fuel CTF](https://muzec0318.github.io/posts/CTF/Zfuel.html)
-- [[Feb 07, 2021]] [zSecurity Cute CTF](https://muzec0318.github.io/posts/CTF/Zcute.html)
 
 
 
