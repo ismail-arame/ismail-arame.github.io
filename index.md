@@ -36,7 +36,6 @@ _Hack The Box is a massive hacking playground, and infosec community of over 1.7
 
 
 - [[Mar 03, 2023]] [Awkward](https://ismail-arame.github.io/posts/hackthebox/awkward.html) `File Disclosure,` `SSRF`, `poisoning JWT`
-- [[Jul 02, 2021]] [Active](https://muzec0318.github.io/posts/hackthebox/active.html) `Active Directory`
 
 
 
@@ -132,9 +131,4 @@ Hey You, Having Any Issues With My Writeups, Articles Send Me A DM on Twitter [M
 <!-- update these accordingly -->
 
 
-[1]: http://www.twitter.com/muzec_saminu
-[2]: http://www.facebook.com/muzec_saminu
-[3]: https://plus.google.com/+MuzecSaminu
-[4]: http://muzec.tumblr.com
-[5]: http://dribbble.com/muzec_saminu
-[6]: http://www.github.com/Muzec0318
+[6]: http://www.github.com/ismail-arame
