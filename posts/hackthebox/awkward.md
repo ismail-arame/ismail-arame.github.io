@@ -12,7 +12,7 @@ in this machine we will be preseneted with `vue js files` loaded with the page w
 ![image](https://www.linkpicture.com/q/pasted_image000.png)
 
 ## Information Gathering
-as always always starting by doing nmap 
+as always starting by doing nmap 
 
 ![image](https://www.linkpicture.com/q/pasted_image001.png)
 
