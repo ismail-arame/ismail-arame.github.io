@@ -35,7 +35,7 @@ _Hack The Box is a massive hacking playground, and infosec community of over 1.7
 <hr>
 
 
-- [[Mar 03, 2023]] [Awkward](https://ismail-arame.github.io/posts/hackthebox/awkward.html) `File Disclosure,` `SSRF`, `poisoning JWT`
+- [[Mar 03, 2023]] [Awkward](https://ismail-arame.github.io/posts/hackthebox/awkward.html) `File Disclosure,` `SSRF`, `poisoning JWT`, `Command Execution`
 
 
 
