@@ -34,7 +34,7 @@ _Hack The Box is a massive hacking playground, and infosec community of over 1.7
 <hr>
 
 
-- [[Mar 03, 2023]] [Awkward](https://ismail-arame.github.io/posts/hackthebox/awkward.html) `File Disclosure,` `SSRF`, `poisoning JWT`, `Command Execution`
+- [Awkward](https://ismail-arame.github.io/posts/hackthebox/awkward.html) `File Disclosure,` `SSRF`, `poisoning JWT`, `Command Execution`
 
 
 
@@ -48,7 +48,7 @@ _Practice your pentesting skills in a standalone, private lab environment with t
 
 
 
-- [[Mar 31, 2021]] [Assertion101](https://muzec0318.github.io/posts/PG/assertion101.html) `Assert LFI`
+- [Assertion101](https://muzec0318.github.io/posts/PG/assertion101.html) `Assert LFI`
 
 
 
@@ -59,7 +59,7 @@ _Capture the Flag (CTF) in computer security is an exercise in which "flags" are
 <hr>
 
 
-- [[Jun 15, 2022]] [Ilyasehacker](https://muzec0318.github.io/posts/CTF/ilyasehacker.html)
+- [Ilyasehacker](https://muzec0318.github.io/posts/CTF/ilyasehacker.html)
 
 
 
